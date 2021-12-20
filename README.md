@@ -1,6 +1,6 @@
 # Get-Weather-App
 
-"Get Weather" is an android application that uses One Call API by OpenWeather. This application shows the weather of your current location. We can search the wetaher of another city also. It also shows the weather of next 7 days.
+"Get Weather" is an android application that uses One Call API by OpenWeather. This application shows the weather of your current location. We can search the weather of another city also. It also shows the weather of next 7 days.
 
 Concepts Implemented:- 
 1. Retrofit for API call
