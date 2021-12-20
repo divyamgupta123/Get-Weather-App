@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GetWeather" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+        <item name="colorOnPrimary">@color/primaryTextColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="colorOnSecondary">@color/secondaryTextColor</item>
+
+        <item name="activityBgColor">@color/backgroundColorDark</item>
+        <item name="cardBgColor">@color/cardBgColorDark</item>
+        <item name="imgBackground">@color/imgBgColorDark</item>
+        <item name="imgBorder">@color/imgBorderColorDark</item>
+
+        <item name="rvBgColor">@color/rvColorDark</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/statusBarColorDark</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

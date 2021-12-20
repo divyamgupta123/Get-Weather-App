@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Get Weather</string>
+    <string name="longitude">Longitude</string>
+    <string name="timezone">Timezone</string>
+
+
+    <string name="cityName">\u0020%s </string>
+    <string name="temperature">  %s\u2103</string>
+    <string name="windSpeed">  %s km/h</string>
+    <string name="eveningTime">  %s PM</string>
+    <string name="morningTime">  %s AM</string>
+    <string name="humidity">  %s%%</string>
+    <string name="pressure">  %s hPa</string>
+
+
+    <string name="weatherdescription">weatherDecs</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_time">Sunrise Time</string>
+    <string name="uv_index">UV Index</string>
+    <string name="pressure_layout">Pressure</string>
+    <string name="wind_speed_layout">Wind Speed</string>
+    <string name="humidity_layout">Humidity</string>
+    <string name="morning">Morning</string>
+    <string name="night">Night</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_time">Sunset Time</string>
+    <string name="moonrise">Moonrise</string>
+    <string name="maximum">Maximum</string>
+    <string name="minimum">Minimum</string>
+    <string name="moonset">Moonset</string>
+    <string name="icon">icon</string>
+    <string name="internet_connection_not_found">Internet Connection not found</string>
+    <string name="latitude">Latitude</string>
+    <string name="current_location">Current Location</string>
+    <string name="search">Search</string>
+
+</resources>

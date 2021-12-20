@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="rvBgColor" format="reference"/>
+    <attr name="activityBgColor" format="reference"/>
+    <attr name="cardBgColor" format="reference"/>
+    <attr name="textColor" format="reference"/>
+    <attr name="imgBackground" format="reference"/>
+    <attr name="imgBorder" format="reference"/>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColor">#2979ff</color>
+    <color name="primaryLightColor">#75a7ff</color>
+    <color name="primaryDarkColor">#004ecb</color>
+    <color name="secondaryColor">#80cbc4</color>
+    <color name="secondaryLightColor">#b2fef7</color>
+    <color name="secondaryDarkColor">#4f9a94</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+
+    <color name="backgroundColorLight">#80DEE9F6</color>
+    <color name="backgroundColorDark">#121212</color>
+
+    <color name="cardBgColorLight">#80cbc4</color>
+    <color name="cardBgColorDark">#252525</color>
+
+    <color name="textColorLight">#000000</color>
+    <color name="textColorDark">#99FFFFFF</color>
+
+    <color name="imgBorderColorLight">#8FC4FD</color>
+    <color name="imgBorderColorDark">#000000</color>
+
+    <color name="imgBgColorLight">#D8E6F8</color>
+    <color name="imgBgColorDark">#3E3E3E</color>
+
+    <color name="rvColorLight">#F1DADF</color>
+    <color name="rvColorDark">#252525</color>
+
+    <color name="statusBarColorLight">#004ecb</color>
+    <color name="statusBarColorDark">#000000</color>
+
+
+</resources>
